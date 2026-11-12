@@ -59,11 +59,26 @@ I am a passionate Full Stack Web Developer who loves building modern, responsive
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/hemadry01">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sumanbiswas-mern/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/hemadry.biswas.612699">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:suman843@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+📧 **Email:** suman843@gmail.com
+
+💼 **LinkedIn:** [Suman Biswas](https://www.linkedin.com/in/sumanbiswas-mern/)
+
+🌐 **GitHub:** [hemadry01](https://github.com/hemadry01)
 
 ---
 
