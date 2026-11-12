@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./suman.png" width="100%" alt="Suman Biswas"/>
+</p>
 <h1 align="center">Hi 👋, I'm Suman Biswas</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
